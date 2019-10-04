@@ -1,0 +1,27 @@
+{
+  "name": "accelerated-mobile-pages-advanced",
+  "version": "1.0.0",
+  "description": "This folder contains the source code for a Google I/O 2016 codelab.",
+  "main": "src/index.js",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/googlecodelabs/accelerated-mobile-pages-advanced.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/googlecodelabs/accelerated-mobile-pages-advanced/issues"
+  },
+  "homepage": "https://github.com/googlecodelabs/accelerated-mobile-pages-advanced#readme",
+  "dependencies": {
+    "cors": "2.8.5",
+    "dotenv": "8.1.0",
+    "express": "4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "1.19.3"
+  }
+}
